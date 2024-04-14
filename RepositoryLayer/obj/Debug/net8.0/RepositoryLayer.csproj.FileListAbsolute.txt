@@ -1,0 +1,15 @@
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+C:\Users\Hafiz\OneDrive\Desktop\Study\Onion Architecture\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
